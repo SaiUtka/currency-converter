@@ -15,7 +15,7 @@
 }
 
 .currency-form > select {
-    background-color: inherit;
+    background-color: transparent;
     border: 2px solid #fff;
     border-radius: 10px;
     color: #fff;
@@ -23,3 +23,8 @@
     padding: 10px;
     outline: 0;
 }
+
+option {
+background-color: black;
+}
+
