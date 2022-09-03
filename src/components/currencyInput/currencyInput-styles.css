@@ -24,7 +24,7 @@
     outline: 0;
 }
 
-option {
-background-color: transparent;
+.currency-form option {
+    background-color: #06071b;
 }
 
