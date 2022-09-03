@@ -1,0 +1,23 @@
+.currency-form {
+    display: flex;
+    column-gap: 20px;
+}
+
+.currency-form > input {
+    background-color: inherit;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.currency-form > select {
+    background-color: inherit;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+}

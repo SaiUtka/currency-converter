@@ -1,0 +1,33 @@
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.header__wrapper {
+    width: 900px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__items {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    column-gap: 20px;
+    justify-content: flex-end;
+}
+
+.logo {
+    color: white;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+}
+
