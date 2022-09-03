@@ -5,7 +5,7 @@ body {
   padding: 0;
   background-image: url("https://cdn.dribbble.com/userupload/2849136/file/original-bfaa2319fdc5f1404731aacf2ee139c5.jpg?compress=1&resize=2048x1536");
   background-size: cover;
-  background-position: center;
+  background-position: center 20%;
   background-repeat: no-repeat;
 }
 
