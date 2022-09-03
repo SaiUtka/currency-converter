@@ -11,6 +11,7 @@
     font-size: 25px;
     padding: 10px;
     font-weight: bold;
+    outline: 0;
 }
 
 .currency-form > select {
@@ -20,4 +21,5 @@
     color: #fff;
     font-size: 20px;
     padding: 10px;
+    outline: 0;
 }
